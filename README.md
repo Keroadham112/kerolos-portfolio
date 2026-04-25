@@ -23,11 +23,6 @@ AI-based web application built with modern React
 Full-stack system using ASP.NET Core and SQL Server  
 🔗 https://github.com/Keroadham112/restaurant-management-system
 
----
-
-### 👕 Clothing Store System
-Full-stack e-commerce application  
-🔗 https://github.com/Keroadham112/clothing-store-system
 
 ---
 
